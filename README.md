@@ -62,7 +62,7 @@ The project follows a clean architecture pattern with MVVM (Model-View-ViewModel
 ### 2. Setup Configuration Files
 The app requires two sensitive configuration files to build and run correctly:
 
-*   **`app/google-services.json`**: (Provided) Contains Firebase configuration. If you are using your own Firebase project, replace this file.
+*   **`app/google-services.json`**: Contains Firebase configuration. You must provide your own file from the Firebase Console.
 *   **`app/src/main/res/values/secrets.xml`**: Contains API keys.
     ```xml
     <?xml version="1.0" encoding="utf-8"?>
