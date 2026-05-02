@@ -1,0 +1,27 @@
+# Google Services & API Keys — NEVER commit these
+app/google-services.json
+app/src/main/res/values/secrets.xml
+
+# Built objects
+*.iml
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Android build artifacts
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE settings
+.idea/
+.DS_Store
+*.swp
+*~
+
+# Local configuration
+local.properties

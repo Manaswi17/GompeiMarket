@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GompeiMarket" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/wpi_crimson</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/wpi_gray</item>
+        <item name="android:statusBarColor">@color/wpi_crimson</item>
+    </style>
+</resources>
